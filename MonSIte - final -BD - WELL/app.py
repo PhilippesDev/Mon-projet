@@ -71,4 +71,4 @@ def submit_form():
 
 if __name__ == '__main__':
     init_db()
-    app.run(host='192.168.43.128', port=8000)
+    app.run()
